@@ -5,7 +5,9 @@ layout: home
 
 Use the links below to contact us
 
-[Email](mailto:crisprintsstuff@gmail.com "Email")
-[Instagram](https://instagram.com/crisprintsstuff "Instagram")
-[Twitter](https://x.com/crisprintsstuff "Twitter/x")
+Email: [crisprintsstuff@gmail.com](mailto:crisprintsstuff@gmail.com "Email")
+
+Instagram: [CrisPrintsStuff](https://instagram.com/crisprintsstuff "Instagram")
+
+Twitter/X: [CrisPrintsStuff](https://x.com/crisprintsstuff "Twitter/x")
 
