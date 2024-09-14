@@ -1,4 +1,4 @@
-# Discord LFG Bot
+# LFG Pro
 
 What you need: 
 
