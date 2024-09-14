@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 layout: home
+nav_order: 6
 ---
 
 Use the links below to contact us
