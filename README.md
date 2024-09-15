@@ -4,13 +4,13 @@ What you need:
 
 Discord Token ([Developer Portal](https://discord.com/developers/applications "Dev Portal"))<br>
 Channel ID ([How to find it](https://www.wikihow.com/Find-Discord-ID))<br>
-Game logos (images.rar included, can find more via google) 
+Game logos (images.rar included, can find more via google)<br>
+Server Category - This is case sensitive
 
-Commands:
-
+Commands:<br>
 /findplayers - the main command, this is used to find players. Will result in the following embed being sent to the channel:<br>
 ![Embed Example](https://ptpimg.me/z96pel.png "Embed")<br>
-/close - used by the member of the server that created the initial embed. Will close and delete the created channel. 
+/close - used by the member of the server that created the initial embed. Will close and delete the created channel.<br><br>
 
 
 
