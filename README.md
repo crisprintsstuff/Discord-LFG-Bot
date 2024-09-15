@@ -9,7 +9,7 @@ Game logos (images.rar included, can find more via google)
 Commands:
 
 /findplayers - the main command, this is used to find players. Will result in the following embed being sent to the channel:<br>
-![Embed Example](https://ptpimg.me/z96pel.png "Embed")
+![Embed Example](https://ptpimg.me/z96pel.png "Embed")<br>
 /close - used by the member of the server that created the initial embed. Will close and delete the created channel. 
 
 
